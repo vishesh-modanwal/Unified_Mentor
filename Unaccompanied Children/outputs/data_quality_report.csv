@@ -1,0 +1,7 @@
+,Data Type,Missing Count,Missing Percentage,Unique Values
+Date,datetime64[ns],0,0.0,720
+Children apprehended and placed in CBP custody*,Float64,0,0.0,169
+Children in CBP custody,Float64,0,0.0,216
+Children transferred out of CBP custody,Float64,0,0.0,185
+Children in HHS Care,Int64,0,0.0,642
+Children discharged from HHS Care,Float64,0,0.0,285

@@ -1,0 +1,13 @@
+KPI,Value,Unit,Interpretation
+Latest Observed System Load,2502.0,children,CBP custody plus HHS care on the latest reporting date
+Latest Reporting Date,2025-12-21,date,Most recent date available in the dataset
+Peak Observed System Load,11762.0,children,Maximum combined observed load
+Date of Peak System Load,2023-12-20,date,Date on which maximum combined load was observed
+Mean Net Intake Pressure,-44.73888888888889,children per observation,"Mean transfers minus discharges; a flow proxy, not verified net HHS intake"
+Positive Pressure Frequency,33.05555555555556,%,Share of observations with transfers greater than discharges
+Recent Repeated Pressure Frequency,24.72222222222222,%,Share of observations meeting the defined repeated-pressure rule
+Median Discharge Offset Ratio,127.8048780487805,%,Median recorded discharges divided by recorded transfers
+90th Percentile Discharge Offset Ratio,360.66502105416,%,Upper-tail ratio; can be sensitive to small transfer counts
+Load Change Standard Deviation,140.27901476269005,children per observed transition,Variability in load change between reporting observations
+Load Change Percentage Standard Deviation,1.8954899037770316,% per observed transition,Relative load-change variability; reporting gaps are not uniform
+Daily-Normalized Load Change Standard Deviation,86.97277475572095,children per elapsed day,Variability after dividing load change by days since prior report

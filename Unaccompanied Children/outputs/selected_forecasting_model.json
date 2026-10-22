@@ -1,0 +1,12 @@
+{
+    "selected_candidate": "Holt trend",
+    "target": "Total System Load",
+    "evaluation_type": "Next recorded observation",
+    "evaluation_split": "Chronological 80/20",
+    "mae": 10.47,
+    "rmse": 13.21,
+    "baseline_mae": 12.05,
+    "baseline_rmse": 15.1,
+    "mae_improvement_percent": 13.11,
+    "status": "Preliminary; irregular reporting intervals limit interpretation"
+}
